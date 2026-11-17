@@ -1,5 +1,5 @@
 
-## Drone Express Simulator
+# Drone Express Simulator
 
 Questo repository è una scheda di presentazione: contiene documentazione, screenshot e dataset.
 
@@ -109,7 +109,7 @@ Il progetto si trova attualmente in versione giocabile (Windows). Il core loop e
 | menu_select | ZeltBolt | [Freesound](https://freesound.org/people/ZeltBolt/sounds/833055/) | CC BY 4.0 | No |
 | bird4 | mrmicrowv | [Freesound](https://freesound.org/people/mrmicrowv/sounds/510191/) | CC BY 4.0 | No |
 | Race Start | JustInvoke | [Freesound](https://freesound.org/people/JustInvoke/sounds/446142/) | CC BY 4.0 | No |
-| White Drone (3D) | Kamilla Kraus | [Fab](https://www.fab.com/listings/5b7e653f-07fe-4131-9d5d-8fe15b1fd0fc) | CC BY 4.0 | Si |
+| White Drone (3D) | Kamilla Kraus | [Fab](https://www.fab.com/listings/5b7e653f-07fe-4131-9d5d-8fe15b1fd0fc) | CC BY 4.0 | Sì |
 | Army Parachute (3D) | amaraklov | [Sketchfab](https://sketchfab.com/3d-models/army-parachute-af52e08feebc4d94a244692212ac25bb) | CC BY *(4.0)* | No  |
 | Basic Crate 2 (3D) | Blender3D | [Sketchfab](https://sketchfab.com/3d-models/basic-crate-2-e96b7cf6caf8431ea1e26a3d8ea0a5e6) | CC BY *(4.0)* | No  |
 | Cine Pigeon fly (3D) | LostBoyz2078 | [Sketchfab](https://sketchfab.com/3d-models/cine-pigeon-fly-67f9422072664cf1967ae4fe440585a9) | CC BY-NC *(solo uso non commerciale)* | No |
@@ -118,7 +118,7 @@ Il progetto si trova attualmente in versione giocabile (Windows). Il core loop e
 Modelli 3D da Poly Haven: Wooden Ladder (Miroslav Turura), Portable Generator (James Ray Cock), Metal Office Desk (Ulan Cabanilla). Suoni da Freesound: MikeFozzy98, qubodup, bruno.auzet, CapsLok, ricemaster, emilyws, Lunevix, hullum, unfa, oysterqueen, TiesWijnen, FlatHill e un utente non più attivo.
 
 **Contenuti generati con IA**
-Alcuni suoni, icone e modelli sono stati generati con strumenti di intelligenza artificiale. (Es. Adobe Firefly, MakerLab di MakerWorld)
+Alcuni suoni, immagini, icone e modelli sono stati generati con strumenti di intelligenza artificiale. (Es. Adobe Firefly, Gemini, MakerLab di MakerWorld)
 
 **Servizi e tecnologie**
 Mappa 3D: Google Photorealistic 3D Tiles tramite Cesium for Unreal. Sviluppato con Unreal Engine 5.
